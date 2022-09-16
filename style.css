@@ -1,0 +1,37 @@
+.btn-primary {
+    color: #fff;
+    background-color: #c50c21;
+    border-color: #aec56c;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #13344a;
+    border-color: #83e73a;
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #2381df;
+    border-color: #565e64;
+}
+
+.ss{
+	background-image: url("img/c.jpg");
+	height: auto;
+}
+.ss h1{
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 30px;
+}
+.ss p{
+	color: white;
+	text-align: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #c50c21;
+    border-color: #aec56c;
+    background-image: url(img/d.jpg);
+}
